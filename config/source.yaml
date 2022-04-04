@@ -8,6 +8,98 @@
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.fastgit.org/freefq/free/master/v2
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://qiaomenzhuanfx.netlify.app/
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://muma16fx.netlify.app/
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.app/
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: http://ss.pythonic.life/full/subscribe
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
+
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app/
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.app/
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://cdn.jsdelivr.net/gh/codingbox/Free-Node-Merge@main/node.txt
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://cdn.jsdelivr.net/gh/bhqz/bhqz@main/ss/12/13.txt
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://cdn.jsdelivr.net/gh/bhqz/bhqz@main/ss/12/30t.txt
+
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -18,17 +110,109 @@
   options:
     channel: ssrList
     num: 200
+    
+ # tg频道抓取
+- type: tgchannel
+  options:
+    channel: ShadowsocksRssr
+    num: 200   
+    
+  # tg频道抓取
+- type: tgchannel
+  options:
+    channel: ripaojiedian
+    num: 200   
+    
+  # tg频道抓取
+- type: tgchannel
+  options:
+    channel: byxiaoxi
+    num: 200
+    
+  # tg频道抓取
+- type: tgchannel
+  options:
+    channel: Supermarket666
+    num: 200
+
+
+  # tg频道抓取
+- type: tgchannel
+  options:
+    channel: freeshadowsock
+    num: 200
+
+  # tg频道抓取
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+
+  # tg频道抓取
+- type: tgchannel
+  options:
+    channel: baipiaojiedian
+    num: 200
+    
+
+
 
 # 翻墙党论坛抓取
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum-48-1.html
+#- type: web-fanqiangdang
+#  options:
+#   url: https://fanqiangdang.com/forum-48-1.html
+
+
+
+
 
 # clash格式订阅链接
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
 
-# 某个网站抓取
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
   options:
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1230clash.yml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://ghproxy.com/https://raw.githubusercontent.com/bhqz/bhqz/main/ss/12/13.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/bhqz/bhqz@main/ss/12/30t.yaml
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free886.herokuapp.com/clash/proxies
+
+# 某个网站抓取
+#- type: web-freessrxyz
+#  options:
+
+
+
+
+
+
+
+
+
+
+
+
